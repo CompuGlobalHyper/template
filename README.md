@@ -1,2 +1,2 @@
-# todo-lsit
-A to-do list project
+# template
+A template containing basci webpack and js setup
